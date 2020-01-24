@@ -1,7 +1,7 @@
 # Chissa
-Chissa is a tiny programming language aims to easy to read.
+Chissa is a tiny programming language inspired by brainfxxk.
 
-Operations
+# Operations
 | ID    | Character | Function                                                       |
 | ----- | --------- | -------------------------------------------------------------- |
 | 0     | >         | increment data pointer                                         |
@@ -22,10 +22,3 @@ Operations
 | 23    | p         | paste value                                                    |
 | 24    | (         | begin comment                                                  |
 | 25    | )         | end comment                                                    |
-
-print "Hello world!!"
-```
-o 72 o 101 o 108 o 108 o 111
-o 32
-o 119 o 111 o 114 o 108 o 100 o 33 o 33
-```
