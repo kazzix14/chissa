@@ -1,5 +1,3 @@
-use enum_iterator::IntoEnumIterator;
-
 const DATA_LENGTH: usize = 128;
 const NUM_COMMANDS: usize = 26;
 
